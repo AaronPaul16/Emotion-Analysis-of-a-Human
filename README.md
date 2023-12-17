@@ -1,2 +1,2 @@
 # Emotion-Analysis-of-a-Human during Video calls and online interviews
-Still Being developed and will shortly be Updated
+This project focuses on analyzing the emotional expressions of a human during interviews or video calls using machine learning and computer vision techniques. The goal is to understand and quantify the emotional responses of individuals in real-time, providing valuable insights for various applications, including job interviews, virtual meetings, and user experience studies.
